@@ -10,7 +10,7 @@ Este repositorio es un fork de [plotly/dash](https://github.com/plotly/dash). Se
 ### Empieza aquí
 
 - [Demo, ejecución y pruebas](ERICK_LAB.md)
-- [Cambios respecto al original](https://github.com/plotly/dash/compare/dev...erickbrucelyqc-lgtm:dash-signalboard:dev)
+- [Cambios respecto al original](https://github.com/plotly/dash/compare/dev...erickbrucelyqc-lgtm:pulso:dev)
 - [Perfil del desarrollador](https://github.com/erickbrucelyqc-lgtm)
 
 ---
