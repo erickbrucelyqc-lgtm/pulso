@@ -1,3 +1,22 @@
+<!-- ERICK-LAB-INTRO -->
+<p align="center"><img src="erick_cover.svg" width="100%" alt="SignalBoard — Erick Quio" /></p>
+
+# SignalBoard · Erick Quio
+
+**Dashboard interactivo de métricas operativas con datos sintéticos.**
+
+Este repositorio es un fork de [plotly/dash](https://github.com/plotly/dash). Se conservan los autores y las licencias originales. El aporte local es una demo o herramienta independiente; no equivale a una contribución aceptada por upstream.
+
+### Empieza aquí
+
+- [Demo, ejecución y pruebas](ERICK_LAB.md)
+- [Cambios respecto al original](https://github.com/plotly/dash/compare/dev...erickbrucelyqc-lgtm:dash-signalboard:dev)
+- [Perfil del desarrollador](https://github.com/erickbrucelyqc-lgtm)
+
+---
+
+## Documentación del proyecto original
+
 # Dash
 
 [![CircleCI](https://img.shields.io/circleci/project/github/plotly/dash/master.svg)](https://circleci.com/gh/plotly/dash)
