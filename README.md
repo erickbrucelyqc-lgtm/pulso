@@ -1,7 +1,7 @@
 <!-- ERICK-LAB-INTRO -->
-<p align="center"><img src="erick_cover.svg" width="100%" alt="SignalBoard — Erick Quio" /></p>
+<p align="center"><img src="erick_cover.svg" width="100%" alt="Pulso — Erick Quio" /></p>
 
-# SignalBoard · Erick Quio
+# Pulso · Erick Quio
 
 **Dashboard interactivo de métricas operativas con datos sintéticos.**
 

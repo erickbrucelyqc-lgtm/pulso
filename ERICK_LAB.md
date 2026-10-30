@@ -1,4 +1,4 @@
-# SignalBoard · Erick Quio
+# Pulso · Erick Quio
 
 **Dashboard oscuro de métricas operativas construido con Plotly Dash.**
 Fork de [plotly/dash](https://github.com/plotly/dash), conservando su licencia MIT.
